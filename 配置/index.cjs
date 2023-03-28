@@ -8,22 +8,22 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx4176b63e63779278',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '4d82d00d2bee74b49393f3efaca741f9',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '内蒙古',
+  CITY: '兴安盟',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'or5ZN5mxyYN0Knm0mK2Z1hkr6nE4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'ykSoiZTuOHLUPElSi0vINcCihQQzkUZUCWVnb1Rslv0	',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
